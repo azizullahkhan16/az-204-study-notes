@@ -6,7 +6,7 @@
 
 [![AZ-204 Certified](https://img.shields.io/badge/Microsoft-AZ--204%20Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-developer/)
 [![Study Notes](https://img.shields.io/badge/Study%20Notes-47%2C000%2B%20Lines-success?style=for-the-badge&logo=markdown)](.)
-[![Dump Questions](https://img.shields.io/badge/Dump%20Questions-2600%2B-orange?style=for-the-badge&logo=bookstack)](practise_questions/)
+[![Dump Questions](https://img.shields.io/badge/Dump%20Questions-2600%2B-orange?style=for-the-badge&logo=bookstack)](dump-questions/)
 [![Last Updated](https://img.shields.io/badge/Dumps%20Updated-2026-blue?style=for-the-badge)](practise_questions/)
 
 <br/>
@@ -349,7 +349,7 @@ Work through these *before* touching the dump files — they test understanding,
 
 ## Dump Questions — Real Exam Questions
 
-**Folder:** [practise_questions/](practise_questions/)
+**Folder:** [dump-questions/](dump-questions/)
 
 > These are **real AZ-204 exam questions** that have appeared in the actual Microsoft certification exam, aggregated from across the internet. All files are dated 2025–2026 and reflect the current live exam version.
 
@@ -436,7 +436,7 @@ Final revision before exam day:
 Found a mistake, a stale fact, or a missing topic? Pull requests are welcome.
 
 - Fix typos or outdated information — open a PR directly
-- Add newly released dump files to [practise_questions/](practise_questions/)
+- Add newly released dump files to [dump-questions/](dump-questions/)
 
 If these notes helped you pass, **please star the repo** — it helps others find it when they search for AZ-204 study materials.
 
